@@ -1,7 +1,7 @@
 - Eu me chamo Victor Carvalho de Souza, 20 anos. Atualmente cursando Ciências da Computação na Universidade Federal de Sergipe(UFS).
 - Tenho interesse em aprender, jogos, animes e gosto bastande de conhecimentos aleatórios e sem sentido.
 - No presente momento estudo Java e venho tentando melhorar meus pilares na Orientação a objetos.
-- Procuro colaborar ativamente em projetos, e tenho como foco atual em uma equipe na vaga de estágio na área de desenvolvimento. 
+- Procuro colaborar ativamente em projetos, e tenho como foco atual entrar em uma equipe na vaga de estágio na área de desenvolvimento. 
 - Meios de comunicação:
 -  Email: victor1carvalho2002.vc@gmail.com
 
