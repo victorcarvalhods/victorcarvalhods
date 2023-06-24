@@ -1,4 +1,4 @@
-- Eu me chamo Victor Carvalho de Souza, 20 anos. Atualmente cursando Ciências da Computação na Universidade Federal de Sergipe(UFS).
+- Eu me chamo Victor Carvalho de Souza, 21 anos. Atualmente cursando Ciências da Computação na Universidade Federal de Sergipe(UFS).
 - Tenho interesse em aprender, jogos, animes e gosto bastande de conhecimentos aleatórios e sem sentido.
 - No presente momento estudo Java e venho tentando melhorar meus pilares na Orientação a objetos.
 - Meios de comunicação:
