@@ -1,10 +1,20 @@
-- Eu me chamo Victor Carvalho de Souza, 21 anos. Atualmente cursando Ciências da Computação na Universidade Federal de Sergipe(UFS).
-- Tenho interesse em aprender, jogos, animes e gosto bastande de conhecimentos aleatórios e sem sentido.
-- No presente momento estudo Java e venho tentando melhorar meus pilares na Orientação a objetos.
-- Meios de comunicação:
--  Email: victor1carvalho2002.vc@gmail.com
+# Olá, me chamo Victor Carvalho ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-<!---
-victorcarvalhods/victorcarvalhods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##Estou aprendendo:
+<img loading="lazy" src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" " width="40" height="40"/>
+v<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" " width="40" height="40"/>
+
+## Contatos:
+
+<div>
+<a href = "mailto:victor1carvalho2002@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/victor-carvalho-de-souza-9824a6238" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+<div>
+<a href="https://github.com/victorcarvalhods">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
