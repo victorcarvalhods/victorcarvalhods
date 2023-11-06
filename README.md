@@ -3,7 +3,7 @@
 
 ##Estou aprendendo:
 <img loading="lazy" src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" " width="40" height="40"/>
-v<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" " width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" " width="40" height="40"/>
 
 ## Contatos:
 
@@ -15,6 +15,6 @@ v<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nod
 
 <div>
 <a href="https://github.com/victorcarvalhods">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?victorcarvalhods&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcarvalhods&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=victorcarvalhods&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
