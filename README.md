@@ -1,12 +1,12 @@
 # Olá, me chamo Victor Carvalho ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-##Estou aprendendo:
+#Estou aprendendo:
 <div>
-<img loading="lazy" src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" " width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" " width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" " width="40" height="40"/>
 </div>
-## Contatos:
+# Contatos:
 
 <div>
 <a href = "mailto:victor1carvalho2002@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
